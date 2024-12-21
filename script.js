@@ -1,3 +1,5 @@
+  
+
 //1. Write a js program to find maximum between two numbers.
 //var num1 = prompt ("Enter a 1st Number");
 //var num2 = prompt ("Enter a 2nd Number");
@@ -145,3 +147,20 @@
 
 
  
+//18. Write a js program to calculate profit or loss.
+//var calculate = alert("Enter amounts to check are you in Profit or Loss")
+//var invest = prompt("Enter Invest amount.")
+//var sales = prompt("Enter Sales amount.")
+//var cal = sales - invest
+// alert(cal )
+//if(invest>=0 && sales>=0){
+ // if(invest<sales){
+ //   alert("you are in profit.")
+ //}
+ //   else if(invest>sales){
+ //      alert("you are in loss.")
+ //     }
+ //     else if(invest == sales){
+ //       alert("you are not in profit or loss.")
+ //    }}
+ //     else{alert("Enter a valid number. ")}
