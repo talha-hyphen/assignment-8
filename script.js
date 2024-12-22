@@ -2,6 +2,11 @@
 
 
 
+
+
+
+
+
 //1. Write a js program to find maximum between two numbers.
 //var num1 = prompt ("Enter a 1st Number");
 //var num2 = prompt ("Enter a 2nd Number");
@@ -86,6 +91,54 @@
 //{  alert("This is a Leap year.")}
 //else 
 //{alert("This is not a Leap years")}
+
+
+
+
+
+
+//12. Write a js program to input month number and print number of days in that month.
+// var monthNumber =  prompt("Enter a month number between (1 to 12) or ( Jan, Feb, Mar, May, Jun, Jul, Aug, Sep, oct, Nov, Dec )to find number of days in it.")
+ 
+// if(monthNumber==1 || monthNumber=="Jan" )
+// {
+//   alert("31 Days")
+// }
+// else if(monthNumber==2  || monthNumber=="Feb" )
+//   {
+//     alert("28 or 29 Days") }
+//  else if(monthNumber==3  || monthNumber=="Jan")
+//   {
+//     alert("31 Days")
+//   }else if(monthNumber==4  || monthNumber=="Mar")
+//     {
+//       alert("30 Days")
+//     }else if(monthNumber==5  || monthNumber=="May")
+//       {
+//         alert("31 Days")
+//       }else if(monthNumber==6  || monthNumber=="Jun")
+//         {
+//           alert("30 Days")
+//         }else if(monthNumber==7  || monthNumber=="jul")
+//           {
+//             alert("31 Days")
+//           }else if(monthNumber==8  || monthNumber=="Aug")
+//             {
+//               alert("31 Days")
+//             }else if(monthNumber==9  || monthNumber=="Sep")
+//               {
+//                 alert("30 Days")
+//               }else if(monthNumber==10  || monthNumber=="Oct")
+//                 {
+//                   alert("31 Days")
+//                 }else if(monthNumber==11  || monthNumber=="Nov")
+//                   {
+//                     alert("30 Days")
+//                   }else if(monthNumber==12  || monthNumber=="Dec")
+//                     {
+//                       alert("31")
+//                     }
+// else{alert("Enter a valid Number.")}
 
 
 
@@ -271,5 +324,11 @@
 //   alert(bill4)
 // }}
 // else{alert("Enter a Valid number.")}
+
+
+
+
+
+
 
 
