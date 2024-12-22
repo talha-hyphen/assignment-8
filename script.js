@@ -1,4 +1,68 @@
-  
+// //19. Write a js program to input marks of five subjects Physics, Chemistry, Biology, Mathematics and Computer. Calculate percentage and grade according to following:
+// //Percentage >= 90% : Grade A
+// //Percentage >= 80% : Grade B
+// //Percentage >= 70% : Grade C
+// //Percentage >= 60% : Grade D
+// //Percentage >= 40% : Grade E
+// //Percentage < 40% : Grade F
+
+
+// //physics
+// var per = alert("Enter marks of subjects and calculate percentage and grade also.")
+// var physics = prompt("Enter Physics marks.")
+// var tphy = prompt ("total")
+// var phy = physics * 100 / tphy
+// alert(phy)
+//  if(phy>=90 && phy<=100) {alert( "Grade A")}
+// else if (phy>=80 && phy<=89){alert("Grade B")}
+// else if (phy>=70 && phy<=79){alert("Grade C")}
+// else if (phy>=60 && phy<=69){alert("Grade D")}
+// else if (phy>=40 && phy<=59){alert("Grade E")}
+// else if (phy<40 && phy>=0){alert("Grade F")}
+
+
+// //chemistry
+// var per = alert("Enter marks of subjects and calculate percentage and grade also.")
+// var chemistry = prompt("Enter Chemistry marks.")
+// var tchm = prompt ("total")
+// var chm = physics * 100 / tchm
+// alert(chm)
+//  if(chm>=90 && chm<=100) {alert( "Grade A")}
+// else if (chm>=80 && chm<=89){alert("Grade B")}
+// else if (chm>=70 && chm<=79){alert("Grade C")}
+// else if (chm>=60 && chm<=69){alert("Grade D")}
+// else if (chm>=40 && chm<=59){alert("Grade E")}
+// else if (chm<40 && chm>=0){alert("Grade F")} 
+
+
+//math
+// var per = alert("Enter marks of subjects and calculate percentage and grade also.")
+// var math = prompt("Enter Math marks.")
+// var tmth = prompt ("total")
+// var mth = physics * 100 / tmth
+// alert(mth)
+//  if(mth>=90 && mth<=100) {alert( "Grade A"  )}
+// else if (mth>=80 && mth<=89){alert("Grade B")}
+// else if (mth>=70 && mth<=79){alert("Grade C")}
+// else if (mth>=60 && mth<=69){alert("Grade D")}
+// else if (mth>=40 && mth<=59){alert("Grade E")}
+// else if (mth<40 && mth>=0){alert("Grade F")}
+
+
+//computer
+// var per = alert("Enter marks of subjects and calculate percentage and grade also.")
+// var computer = prompt("Enter Computer marks.")
+// var tcmp = prompt ("total")
+// var cmp = physics * 100 / tcmp
+// alert(cmp)
+//  if(cmp>=90 && cmp<=100) {alert( "Grade A")}
+// else if (cmp>=80 && cmp<=89){alert("Grade B")}
+// else if (cmp>=70 && cmp<=79){alert("Grade C")}
+// else if (cmp>=60 && cmp<=69){alert("Grade D")}
+//else if (cmp>=40 && cmp<=59){alert("Grade E")}
+//else if (cmp<40 && cmp>=0){alert("Grade F")}
+
+
 
 //1. Write a js program to find maximum between two numbers.
 //var num1 = prompt ("Enter a 1st Number");
