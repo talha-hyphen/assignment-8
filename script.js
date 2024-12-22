@@ -1,4 +1,6 @@
- 
+
+
+
 
 //1. Write a js program to find maximum between two numbers.
 //var num1 = prompt ("Enter a 1st Number");
@@ -229,4 +231,45 @@
 // else if (cmp>=60 && cmp<=69){alert("Grade D")}
 //else if (cmp>=40 && cmp<=59){alert("Grade E")}
 //else if (cmp<40 && cmp>=0){alert("Grade F")}
+
+
+
+// 21. Write a js program to input electricity unit charges and calculate total electricity bill according to the given condition:
+// For first 50 units Rs. 0.50/unit
+// For next 100 units Rs. 0.75/unit
+// For next 100 units Rs. 1.20/unit
+// For unit above 250 Rs. 1.50/unit
+// An additional surcharge of 20% is added to the bill
+ 
+// var charge = prompt("Enter electricity unit charges and Calculate the bill in Rupees.")
+// var unit50 =  charge* 0.50 
+// var bill1 = 20*unit50 / 100 + unit50
+
+// var unit100 = charge* 0.75
+// var bill2 = 20*unit100/100+unit100
+
+// var unit250 = charge* 1.20
+// var bill3 = 20* unit250/100 + unit250
+
+// var unit = charge* 1.50
+// var bill4 = 20* unit/ 100 + unit
+// if(charge>=0 || charge <=0){
+// if(charge>=0 && charge<=50)
+// {
+//   alert(bill1)
+// }
+// if(charge>=51 && charge<=100)
+//   {
+//     alert(bill2)
+//   }
+// if(charge>=101 && charge<=250)
+// {
+//   alert(bill3)
+// }
+// if(charge>250)
+// {
+//   alert(bill4)
+// }}
+// else{alert("Enter a Valid number.")}
+
 
